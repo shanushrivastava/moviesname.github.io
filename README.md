@@ -1,2 +1,2 @@
-# moviesname.github.io
+# favourite movies
 About My Favourite Movies 
